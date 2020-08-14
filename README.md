@@ -12,3 +12,14 @@
 - cd instagram-app
 - npm install
 - npm start
+
+# Steps for deploy react app to firebase
+
+- firebase login
+- firebase init
+- Hosting: Configure and deploy Firebase Hosting sites
+- select firebase project
+- build
+- yes
+- npm run build
+- firebase deploy
