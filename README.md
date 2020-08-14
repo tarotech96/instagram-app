@@ -8,6 +8,7 @@
 
 # Run app
 
-
+- git clone https://github.com/tarotech96/instagram-app.git
+- cd instagram-app
 - npm install
 - npm start
